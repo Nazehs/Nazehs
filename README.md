@@ -8,3 +8,8 @@
 Nazehs/Nazehs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## Contribution Graph
+<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=nazehs&theme=github" alt="Nazeh Abel" /></p> 
+
+## GitHub Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nazehs&show_icons=true&theme=react&count_private=true" alt="Nazeh Abel" /></p>
